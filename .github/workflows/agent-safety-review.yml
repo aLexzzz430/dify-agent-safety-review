@@ -17,7 +17,7 @@ on:
       - ".github/workflows/agent-safety-review.yml"
   push:
     branches:
-      - codex/agent-safety-review-gate
+      - main
 
 permissions:
   contents: read
